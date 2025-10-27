@@ -13,7 +13,7 @@ button {
   background: linear-gradient(
     0deg,
     rgba(255, 213, 0, 1) 0%,
-    rgba(255, 213, 0, 1) 47%,
+    rgb(51, 50, 45) 47%,
     rgba(0, 91, 187, 1) 47%,
     rgba(0, 91, 187, 1) 100%
   );
