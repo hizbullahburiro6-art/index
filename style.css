@@ -102,6 +102,10 @@ ul, li {
     width: 800px;
     height: auto;
 }
+.hero-right-image img {
+    width: 200px;
+    height: auto;
+}
 
 .checkbox-menu-items {
     display: none;
