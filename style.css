@@ -1,3 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
+
+body{
+    background-color:pink;
+} 
+
+.wifey>p{
+    background-color:white;
+    color: purple;
+    font-size: 50px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    
+
+
+}
+
+.wifey>p:hover{
+    color: darkgreen;
+}
+
+.wish{
+    color:black;
+    font-size: medium;
+    text-align: justify;
+    font-style: bold;
+    line-height: 30px;
+    width: 650px;
+    margin: auto;
+    
+    
+
+}
+.wish>h1{
+    color: rgb(42, 165, 83);
+    font-size: 40px;
+    text-align: center;
+    font-style: bold;
 
 }
