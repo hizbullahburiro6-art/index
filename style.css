@@ -142,7 +142,7 @@ button:nth-child(2):hover{
 .design .circle{
     aspect-ratio: 1;
     position: absolute;
-    border-radius: 40%  ;
+    border-radius: 50%  ;
     top: 50%;
     left: 72%;
     transform: translate(-50%, -50%);
